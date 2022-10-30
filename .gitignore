@@ -2,4 +2,4 @@
 !Dockerfile
 !.gitignore
 !.devcontainer/
-!.vscode/
+!.vscode/settings.json
