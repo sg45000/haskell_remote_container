@@ -5,7 +5,7 @@ RUN apt-get update -y \
      && apt-get install -y build-essential curl \
      && apt-get install -y libffi-dev libffi7 libgmp-dev libgmp10 \
      && apt-get install -y libncurses-dev libncurses5 libtinfo5 libnuma-dev \
-     && apt-get install -y llvm-12
+     && apt-get install -y llvm-12 \
      && apt-get clean
 
 ENV BOOTSTRAP_HASKELL_NONINTERACTIVE=1
