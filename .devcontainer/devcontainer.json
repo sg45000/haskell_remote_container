@@ -1,0 +1,8 @@
+{
+	"name": "HaskellRemoteContainer",
+	"context": "..",
+	"dockerFile": "./Dockerfile",
+	"extensions": [
+		"haskell.haskell"
+	]
+}

@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "haskell.serverExecutablePath": "/home/vscode/.ghcup/bin/haskell-language-server-9.2.4",
+    "haskell.ghcupExecutablePath": "/home/vscode/.ghcup/bin/ghcup"
+}
